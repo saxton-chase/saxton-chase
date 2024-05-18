@@ -6,7 +6,7 @@
 I am a security professional with skills in programming, defensive security, and offensive security.
 
 ## Objective
-]
+
 
 My love of computers has led me to become a well-rounded Cyber Security professional with an emphasis in Offensive Security.
 
@@ -18,5 +18,7 @@ My love of computers has led me to become a well-rounded Cyber Security professi
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Vulnerability Scanner
+- Amaazn AWS Password Manager
+- Microsoft Sentinel SIEM
+- Active Directory Home Lab
