@@ -1,18 +1,15 @@
-name: Update Badges
+name: Update badges
+
 on:
   schedule:
-    # Runs daily at 2 AM UTC
+    # Runs at 2am UTC
     - cron: "0 2 * * *"
-  workflow_dispatch: # Allows manual runs
 jobs:
-  update-badges:
-    name: Update README with Credly Badges
+  update-readme:
+    name: Update Readme with badges
     runs-on: ubuntu-latest
-    permissions:
-      contents: write # Grants permission for the action to write to the README
     steps:
-      - name: Update Badges
+      - name: Badges - Readme
         uses: pemtajo/badge-readme@main
-        with:
-          CREDILLY_USER: ${{ github.actor }} # Uses your GitHub username
-          
+        with:       
+          CREDLY_USER: saxton-chase # optional, but default will use the same from github
