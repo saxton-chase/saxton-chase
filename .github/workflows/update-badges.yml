@@ -14,5 +14,5 @@ jobs:
       - name: Update Badges
         uses: pemtajo/badge-readme@main
         with:
-          CREDILLY_USER: ${{ saxton-chase }} # Uses your GitHub username
+          CREDILLY_USER: ${{ github.actor }} # Uses your GitHub username
           NUMBER_LAST_BADGES: 10 # Optionally, specify the number of badges to display (0 for all)
