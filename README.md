@@ -4,5 +4,5 @@
 ## Projects
 ## Write Ups
 ## Certifications
-<!-- START_SECTION:badges-->
-<!-- END_SECTION:badges-->
+![Netwwork+](/badges/Network+-svg.svg)
+![Security+](/badges/Security+-svg.svg)
