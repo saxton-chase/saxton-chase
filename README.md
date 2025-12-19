@@ -4,5 +4,5 @@
 ## Projects
 ## Write Ups
 ## Certifications
-![Netwwork+](/badges/Network+-svg.svg)
-![Security+](/badges/Security+-svg.svg)
+![/](badges/comptia-security-ce-certification.png)
+![](/badges/comptia-network-ce-certification.1.png)
